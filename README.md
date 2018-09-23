@@ -1,5 +1,5 @@
 # iotanode_get_infor_neighbors
-IOTAのフルノードのAPI「getNodeInfo」と「getNeighors」を用いて、３つのフルノードの情報を静的サイトで同時に観察できます。
+IOTAのフルノードのAPI「getNodeInfo」と「getNeighbors」を用いて、３つのフルノードの情報を静的サイトで同時に観察できます。
 
 ## Usage
 distに入っている４つのファイルを任意のフォルダにダウンロードして、index.htmlをダブルクリック。
