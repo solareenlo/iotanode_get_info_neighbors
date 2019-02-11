@@ -1,15 +1,15 @@
-var refreshMillis = 3000;
-var iota1 = new IOTA({
-        'host': host1,
-        'port': port1
+let refreshMillis = 3000;
+let iota1 = new IOTA({
+  'host': host1,
+  'port': port1
 });
-var iota2 = new IOTA({
-        'host': host2,
-        'port': port2
+let iota2 = new IOTA({
+  'host': host2,
+  'port': port2
 });
-var iota3 = new IOTA({
-	'host': host3,
-	'port': port3
+let iota3 = new IOTA({
+  'host': host3,
+  'port': port3
 });
 
 function showNodeInfo1(){
